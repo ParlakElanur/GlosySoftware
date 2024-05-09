@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6Ap9feObyPVKcyBt+Rad7yhQiBVbSjKVOD7vUoao7/JMgxjC8deetNITbcfktCNZnjORKE4CfFogfTkZW0oPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\GlosySoftware\\WebApp\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
